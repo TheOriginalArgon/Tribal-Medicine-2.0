@@ -46,6 +46,7 @@
             </li>
             <li Class="ArgonicCore.Comps.CompProperties_Contaminable">
                 <isBaseContaminator>true</isBaseContaminator>
+                <contaminationPower>0.75</contaminationPower>
                 <hediffs>
                     <li>TM_BrootPoisoning</li>
                 </hediffs>

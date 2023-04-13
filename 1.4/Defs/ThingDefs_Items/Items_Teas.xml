@@ -109,9 +109,6 @@
         <comps>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
     </ThingDef>
 
     <HediffDef ParentName="TM_TeaEffectBase">
@@ -184,9 +181,6 @@
         <comps>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
     </ThingDef>
 
     <HediffDef ParentName="TM_TeaEffectBase">
@@ -266,9 +260,6 @@
             </li>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
     </ThingDef>
 
     <HediffDef ParentName="TM_TeaEffectBase">
@@ -427,9 +418,6 @@
         <comps>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
     </ThingDef>
 
     <HediffDef ParentName="TM_TeaEffectBase">
@@ -493,9 +481,6 @@
         <comps>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
     </ThingDef>
 
     <HediffDef ParentName="TM_TeaEffectBase">
@@ -586,9 +571,6 @@
         <comps>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
     </ThingDef>
 
     <HediffDef ParentName="TM_TeaEffectBase">
@@ -652,9 +634,6 @@
         <comps>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
     </ThingDef>
 
     <HediffDef ParentName="TM_TeaEffectBase">
@@ -743,9 +722,6 @@
         <comps>
             <!-- TODO: Ruined by temperature -->
         </comps>
-        <thingSetMakerTags>
-            <li>RewardStandardCore</li>
-        </thingSetMakerTags>
         <modExtensions>
             <li Class="ArgonicCore.ModExtensions.ThingDefExtension_BotchableOnMake">
                 <botchProducts>

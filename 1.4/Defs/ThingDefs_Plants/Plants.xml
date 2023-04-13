@@ -96,7 +96,7 @@
         <description>A sturdy, root-like lichen that visually resembles coral. Broots are most found in humid regions, but their growth is overall slow. While extremely poisonous in their raw state, with a proper boiling process and combining it with the right herbs, their lethal effects can be nullified, leaving room for their other effects, which are very beneficial to the immune system.</description>
         <statBases>
             <MaxHitPoints>100</MaxHitPoints>
-            <Nutrition>0.1</Nutrition>
+            <Nutrition>0</Nutrition>
         </statBases>
         <graphicData>
             <texPath>Things/Plant/TM_Broots</texPath>
