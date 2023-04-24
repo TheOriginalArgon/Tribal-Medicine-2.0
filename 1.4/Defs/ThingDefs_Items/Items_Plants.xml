@@ -56,7 +56,7 @@
             <li>PlantMatter</li>
         </thingCategories>
         <ingestible>
-            <preferability>DesperateOnly</preferability>
+            <preferability>NeverForNutrition</preferability>
             <canAutoSelectAsFoodForCaravan>false</canAutoSelectAsFoodForCaravan>
         </ingestible>
     </ThingDef>

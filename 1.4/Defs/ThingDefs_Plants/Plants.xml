@@ -104,6 +104,7 @@
         </graphicData>
         <hideAtSnowDepth>0.3</hideAtSnowDepth>
         <ingestible>
+            <preferability>NeverForNutrition</preferability>
             <outcomeDoers>
                 <li Class="IngestionOutcomeDoer_GiveHediff">
                     <hediffDef>TM_BrootPoisoning</hediffDef>
